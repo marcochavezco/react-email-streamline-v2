@@ -1,11 +1,8 @@
-name: 'The name of your action here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
-
-# Add your action's branding here. This will appear on the GitHub Marketplace.
-branding:
-  icon: 'heart'
-  color: 'red'
+name: 'Templates Deployment'
+description:
+  'This action will take a build artifact, and arrange it in a JSON format, all
+  build directory must be in HTML as the subfolders files.'
+author: 'Aytomic Technology'
 
 # Define your inputs here.
 inputs:
